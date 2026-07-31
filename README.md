@@ -1,3 +1,2 @@
 ### Hello!
-My name is Ali or i prefer call me "Alintosh"
-My all Projects is forked from [MultiX](https://github.com/MultiX0) and [AXV](https://github.com/AhmedXV-V12)
+My name is Ali or I prefer call me "Alintosh"
